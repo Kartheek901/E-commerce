@@ -1,44 +1,83 @@
-# Anon - An eCommerce Website
+# **Anon - A Modern E-commerce Website**
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
+**Anon** is a fully responsive e-commerce website designed to offer seamless user experience across all devices. Built with **HTML**, **CSS**, and **JavaScript**, it is optimized for speed, compatibility, and functionality, ensuring a superior shopping experience.  
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
+## **Features**
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+- Fully responsive design for desktop, tablet, and mobile devices.
+- Modern and clean user interface.
+- Easy customization to fit various business needs.
+- Built with performance and scalability in mind.
 
-## Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+## **Live Demo**
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+Explore the website here: **[Live Demo](https://your-live-demo-link.com)**  
 
-## Installing Anon
+### Desktop Preview  
+![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")  
 
-To install **Anon**, follow these steps:
+### Mobile Preview  
+![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")  
 
-Linux and macOS:
+---
 
+## **Prerequisites**
+
+Before setting up Anon, make sure you have the following installed on your system:  
+
+- **Git**: [Download Git](https://git-scm.com/downloads)  
+- A web browser (e.g., Google Chrome, Mozilla Firefox).  
+
+---
+
+## **Installation**
+
+Follow these steps to install and run **Anon** on your local machine:  
+
+### **Linux and macOS**
 ```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+sudo git clone https://github.com/Sathishnaik786/anon-ecommerce-website.git
 ```
 
-Windows:
-
+### **Windows**
 ```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git clone https://github.com/Sathishnaik786/anon-ecommerce-website.git
 ```
 
-## Contact
+Once cloned, open the `index.html` file in your web browser to explore the project.  
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+---
 
-## License
+## **Technologies Used**
 
-This project is **free to use** and does not contains any license.
+- **HTML5**  
+- **CSS3**  
+- **JavaScript ES6**  
+
+---
+
+## **Contribution**
+
+We welcome contributions to improve **Anon**! Feel free to fork the repository, create a branch, and submit a pull request. Let's make Anon better together!  
+
+---
+
+## **Contact Me**
+
+For questions, feedback, or collaborations, you can reach me at:  
+
+- **Email**: [sathishnaikislavath@gmail.com](mailto:sathishnaikislavath@gmail.com)  
+- **Twitter**: [@Sathishnaik](https://twitter.com/Sathishnaik)  
+- **GitHub**: [Sathishnaik786](https://github.com/Sathishnaik786)
+- **Linkedin**: [Sathishnaik786](https://www.linkedin.com/in/isathishnaik/)
+
+
+---
+
+## **License**
+
+This project is **free to use** and available for personal and commercial use.  
