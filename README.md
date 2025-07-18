@@ -40,12 +40,12 @@ Follow these steps to install and run **Anon** on your local machine:
 
 ### **Linux and macOS**
 ```bash
-sudo git clone https://github.com/Sathishnaik786/anon-ecommerce-website.git
+sudo git clone https://github.com/Kartheek901/anon-ecommerce-website.git
 ```
 
 ### **Windows**
 ```bash
-git clone https://github.com/Sathishnaik786/anon-ecommerce-website.git
+git clone https://github.com/Kartheek901/anon-ecommerce-website.git
 ```
 
 Once cloned, open the `index.html` file in your web browser to explore the project.  
@@ -63,17 +63,6 @@ Once cloned, open the `index.html` file in your web browser to explore the proje
 ## **Contribution**
 
 We welcome contributions to improve **Anon**! Feel free to fork the repository, create a branch, and submit a pull request. Let's make Anon better together!  
-
----
-
-## **Contact Me**
-
-For questions, feedback, or collaborations, you can reach me at:  
-
-- **Email**: [sathishnaikislavath@gmail.com](mailto:sathishnaikislavath@gmail.com)  
-- **Twitter**: [@Sathishnaik](https://twitter.com/Sathishnaik)  
-- **GitHub**: [Sathishnaik786](https://github.com/Sathishnaik786)
-- **Linkedin**: [Sathishnaik786](https://www.linkedin.com/in/isathishnaik/)
 
 
 ---
